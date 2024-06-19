@@ -59,6 +59,3 @@ of the data, easily understand sales trends, product performance, and customer s
  - Overall, the Excel project enhanced my understanding of spreadsheet functionalities, 
 data cleaning techniques, and data visualization capabilities. It emphasized the 
 significance of accurate and well-organized data in driving effective business decisions.
-
-## Dashboard image
-![Screenshot 2024-05-20 201536](https://github.com/RBSanthosh0104/Ecommerce-Sales-Analysis-Dashboard-project/assets/170400064/d8400452-23e7-4bff-9523-c25b27ac70f3)
